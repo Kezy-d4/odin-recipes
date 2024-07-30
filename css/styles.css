@@ -1,15 +1,48 @@
-html {
+* {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #ffe4c4;
+    box-sizing: border-box;
 }
 
-.homepage-welcome-card {
-    border: 3px solid #000000;
+body.homepage {
+    background-color: #ffcdd2;
 }
 
-h1.homepage-title,
-h2.homepage-subtitle {
+div.homepage-welcome-card {
+    background-color: #fff9ef;
+    width: 550px;
+    margin: 30px auto;
+    border: 5px solid #8b0000;
+    padding: 30px;
     text-align: center;
-    margin: 5px 0px;
+}
+
+h1.homepage-title {
+    background-color: #ffcdd2;
+    width: 225px;
+    margin: 0px auto 20px;
+    border: 3px solid #8b0000;
+}
+
+h2.homepage-subtitle {
+    width: 432px;
+    margin: 20px auto 25px;
+    font-size: 1.3em;
+}
+
+ul.homepage-recipes-list {
+    list-style-position: inside;
+    text-align: justify;
+    width: 285px;
+    margin: 25px auto 0px;
+    border: 2px solid #8b0000;
+    padding: 5px;
+}
+
+li.homepage-recipe-link {
+    padding: 4px;
+}
+
+span {
+    font-style: italic;
 }
 
