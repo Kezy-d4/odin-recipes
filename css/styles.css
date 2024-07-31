@@ -12,8 +12,9 @@ body.t-b-s {
 }
 
 div.c-s-s-r-top-navigation a,
-div.g-c-s-w-top-navigation a {
-    margin-right: 30px; 
+div.g-c-s-w-top-navigation a,
+div.t-b-s-top-navigation a{
+    margin: 0px 30px; 
 }
 
 div.c-s-s-r-top-navigation,
