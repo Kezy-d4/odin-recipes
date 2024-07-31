@@ -1,3 +1,4 @@
+/* Global */
 * {
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
@@ -10,6 +11,14 @@ body.t-b-s {
     background-color: #ffcdd2;
 }
 
+div.c-s-s-r-top-navigation a,
+div.g-c-s-w-top-navigation a, 
+div.t-b-s-top-navigation a {
+    margin-right: 30px;
+}
+
+
+/* Homepage */
 div.homepage-welcome-card {
     background-color: #fff9ef;
     max-width: 550px;
