@@ -14,7 +14,15 @@ body.t-b-s {
 div.c-s-s-r-top-navigation a,
 div.g-c-s-w-top-navigation a, 
 div.t-b-s-top-navigation a {
-    margin-right: 30px;
+    margin-right: 30px; 
+}
+
+div.c-s-s-r-top-navigation,
+div.g-c-s-w-top-navigation,
+div.t-b-s-top-navigation {
+    margin: 0px auto;
+    width: auto;
+    text-align: center;
 }
 
 
