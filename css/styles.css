@@ -17,7 +17,7 @@ div.t-b-s-recipe-card {
     border: 5px solid #8b0000;
     padding: 30px;
     max-width: 750px;
-    margin: 30px auto;
+    margin: 0px auto;
     background-color: #fff9ef;
 }
 
@@ -43,6 +43,14 @@ h1.t-b-s-recipe-title {
     border: 3px solid #8b0000;
     text-align: center;
     background-color: #ffcdd2;
+    margin: 25px auto 30px;
+}
+
+img {
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
