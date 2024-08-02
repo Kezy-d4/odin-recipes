@@ -61,6 +61,11 @@ img {
     font-size: 1.1em;
 }
 
+.g-c-s-w-ul-1,
+.g-c-s-w-ul-2 {
+    margin-bottom: 20px;
+}
+
 
 /* Homepage */
 div.homepage-welcome-card {
