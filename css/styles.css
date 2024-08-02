@@ -53,11 +53,9 @@ img {
     margin-right: auto;
 }
 
-.heading-1-content p {
-    font-size: 1.1em;
-}
-
-.heading-2-content ul {
+.heading-1-content p,
+.heading-2-content ul,
+.heading-3-content ol {
     font-size: 1.1em;
 }
 
