@@ -6,3 +6,5 @@ the command line while studying the TOP curriculum.
 
 This project will be a simple html-only website featuring an index.html
 homepage with links to several recipes and images. 
+
+I have since updated the page with css and various improvements such as: improved navigation, styling, and punctuation/grammar.
