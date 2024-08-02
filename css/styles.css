@@ -68,6 +68,10 @@ img {
     margin-bottom: 20px;
 }
 
+div.heading-3-content ol li {
+    margin-bottom: 7px;
+}
+
 
 /* Homepage */
 div.homepage-welcome-card {
