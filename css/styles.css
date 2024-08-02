@@ -102,7 +102,7 @@ h1.homepage-title {
 }
 
 h2.homepage-subtitle {
-    width: 432px;
+    max-width: 432px;
     margin: 20px auto 25px;
     font-size: 1.3em;
 }
