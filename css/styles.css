@@ -72,6 +72,17 @@ div.heading-3-content ol li {
     margin-bottom: 7px;
 }
 
+span.c-s-s-r-mouthwatering,
+span.g-c-s-w-heavenly,
+span.t-b-s-delightful {
+    background-color: #ffcdd2;
+    color: #8b0000;
+    font-style: italic;
+    padding: 0px 4px;
+    border: 1px dotted #8b0000;
+    display: inline-block;
+}
+
 
 /* Homepage */
 div.homepage-welcome-card {
