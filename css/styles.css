@@ -11,18 +11,38 @@ body.t-b-s {
     background-color: #ffcdd2;
 }
 
+div.c-s-s-r-recipe-card,
+div.g-c-s-w-recipe-card,
+div.t-b-s-recipe-card {
+    border: 5px solid #8b0000;
+    padding: 30px;
+    max-width: 750px;
+    margin: 30px auto;
+    background-color: #fff9ef;
+}
+
 div.c-s-s-r-top-navigation a,
 div.g-c-s-w-top-navigation a,
 div.t-b-s-top-navigation a{
-    margin: 0px 30px; 
+    margin: 0px 15px; 
 }
 
 div.c-s-s-r-top-navigation,
 div.g-c-s-w-top-navigation,
 div.t-b-s-top-navigation {
     margin: 0px auto;
-    width: auto;
+    max-width: 750px;
     text-align: center;
+    border: 2px solid #8b0000;
+    padding: 5px;
+}
+
+h1.c-s-s-r-recipe-title,
+h1.g-c-s-w-recipe-title,
+h1.t-b-s-recipe-title {
+    border: 3px solid #8b0000;
+    text-align: center;
+    background-color: #ffcdd2;
 }
 
 
