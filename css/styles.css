@@ -19,6 +19,7 @@ div.t-b-s-recipe-card {
     max-width: 750px;
     margin: 0px auto;
     background-color: #fff9ef;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, .5); 
 }
 
 div.c-s-s-r-top-navigation a,
@@ -92,6 +93,7 @@ div.homepage-welcome-card {
     border: 5px solid #8b0000;
     padding: 30px;
     text-align: center;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, .5); 
 }
 
 h1.homepage-title {
