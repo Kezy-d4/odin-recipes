@@ -4,10 +4,7 @@
     box-sizing: border-box;
 }
 
-body.homepage,
-body.c-s-s-r, 
-body.g-c-s-w,
-body.t-b-s {
+body {
     background-color: #ffcdd2;
 }
 
